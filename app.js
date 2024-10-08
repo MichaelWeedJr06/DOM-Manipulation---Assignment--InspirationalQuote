@@ -12,11 +12,11 @@ function switchQuote() {
     "In real life, I assure you, there is no such thing as algebra.",
   ];
   const persons = [
-    "Bob Ross",
-    "Preston Cessna",
-    "David Goggins",
-    "Frank Sinatra",
-    "Fran Lebowitz",
+    "--Bob Ross",
+    "--Preston Cessna",
+    "--David Goggins",
+    "--Frank Sinatra",
+    "--Fran Lebowitz",
   ];
   const images = [
     "./media/Bob-Ross.jpg",
